@@ -1,5 +1,3 @@
-import { useState } from 'react'
-import './App.scss'
 import { Button } from "@/components/ui/button"
 
 function App() {
